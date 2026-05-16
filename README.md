@@ -8,7 +8,7 @@ I’m Ariori Abdulrafiu Olayemi — an engineering student, technical installer,
 
 My journey began with electrical installation, inverter/solar system setup, and surveillance systems, but it didn’t stop there. Over time, I’ve added software development, scripting, and low-level programming to my toolbox — including languages like C, Python, Bash, and JavaScript. I also enjoy building and automating solutions with Linux and Git.
 
-Currently, I’m enhancing my front-end development skills (HTML, CSS, JS) through the ALX program, exploring blockchain technology and Solidity, and working on a portable Raspberry Pi-powered computing device.
+Currently, I’m also a front-end developer (React-ts, NextJs, TailWindCSS, TypeScript and JavaScript) through the ALX program, exploring blockchain technology and Solidity, and working on a portable Raspberry Pi-powered computing device.
 
 I’m deeply driven by curiosity, real-world problem-solving, and the desire to create reliable, scalable systems — both digital and physical. My goal is to contribute to impactful projects, keep learning, and collaborate with open-source communities across the globe.
 
@@ -43,3 +43,9 @@ src="https://img.shields.io/twitter/follow/ArioriAbdulraf1?logo=twitter&style=fo
 <a href="http://www.github.com/NeoMemb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoMemb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/NeoMemb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoMemb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Badges from Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/tall/68412e36a7a6cad7075d9f2d?variant=dark)](https://roadmap.sh)
+
+<div> <em>Join Roadmap.sh,with exclusive interesting projects to develop yourself more on your tech journey @ <a href="https://roadmap.sh/signup?rc=68412e36a7a6cad7075d9f2d">roadmap.sh</a></em></div>
+
