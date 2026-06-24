@@ -18,7 +18,6 @@ I'm deeply driven by curiosity, real-world problem-solving, and the desire to cr
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [abdulrafiuariori@gmail.com](mailto:abdulrafiuariori@gmail.com)
-* 🧠  I'm learning advanced JavaScript and practicing more on Data Structure and Algorithm
 * 🤝  I'm open to collaborating on interesting projects and problem-solving task
 * ⚡  I'm into Solar power installation and electrical wiring installation. I'm also a student of Material and Metallurgical Engineering in the University of Ilorin.
 
