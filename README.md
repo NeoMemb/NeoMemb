@@ -4,11 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Software engineer
 -----------------------------------
 
-I’m Ariori Abdulrafiu Olayemi — an engineering student, technical installer, and aspiring full-stack developer passionate about the intersection of software and hardware. With a strong foundation in Materials and Metallurgical Engineering from the University of Ilorin, I combine academic insight with real-world, hands-on experience.
+I am a Full-Stack Web Developer passionate about building scalable, efficient, and user-friendly web applications. I specialize in developing modern web solutions using JavaScript, React, Next.js, Node.js, Express.js, PostgreSQL, and related technologies.
 
-My journey began with electrical installation, inverter/solar system setup, and surveillance systems, but it didn’t stop there. Over time, I’ve added software development, scripting, and low-level programming to my toolbox — including languages like C, Python, Bash, and JavaScript. I also enjoy building and automating solutions with Linux and Git.
+My experience spans both frontend and backend development, allowing me to design complete systems—from intuitive user interfaces to secure APIs, authentication systems, database architecture, and cloud deployment workflows. I enjoy transforming ideas into functional products that solve real-world problems.
 
-Currently, I’m also a front-end developer (React-ts, NextJs, TailWindCSS, TypeScript and JavaScript) through the ALX program, exploring blockchain technology and Solidity, and working on a portable Raspberry Pi-powered computing device.
+Beyond web development, I have a strong foundation in programming, Linux systems, networking fundamentals, and software engineering principles. I am continuously expanding my knowledge in areas such as system design, blockchain technology, cloud infrastructure, and application security.
+
+Currently studying Materials and Metallurgical Engineering, I bring an analytical and problem-solving mindset to software development. My engineering background helps me approach challenges methodically, optimize performance, and build reliable solutions.
+
+I am passionate about learning, collaborating with developers, and contributing to impactful projects. Whether it's developing responsive web applications, designing backend services, working with databases, or exploring emerging technologies, I strive to write clean, maintainable, and efficient code.
 
 I’m deeply driven by curiosity, real-world problem-solving, and the desire to create reliable, scalable systems — both digital and physical. My goal is to contribute to impactful projects, keep learning, and collaborate with open-source communities across the globe.
 
@@ -17,6 +21,17 @@ I’m deeply driven by curiosity, real-world problem-solving, and the desire to 
 * 🧠  I'm learning advanced JavaScript and practicing more on Data Structure and Algorithm
 * 🤝  I'm open to collaborating on interesting projects and problem-solving task
 * ⚡  I'm into Solar power installation and electrical wiring installation. I'm also a student of Material and Metallurgical Engineering in the University of Ilorin.
+
+My Core Skills:
+• Full-Stack Web Development
+• React & Next.js
+• Node.js & Express.js
+• JavaScript, Python & C
+• PostgreSQL & Database Design
+• RESTful APIs & Authentication
+• Linux & Command-Line Tools
+• Git & Version Control
+• Cloud & Deployment Fundamentals
 
 <a href="https://www.x.com/ArioriAbdulraf1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ArioriAbdulraf1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
