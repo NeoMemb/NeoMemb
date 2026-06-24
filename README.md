@@ -4,17 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Software engineer
 -----------------------------------
 
-I am a Full-Stack Web Developer passionate about building scalable, efficient, and user-friendly web applications. I specialize in developing modern web solutions using JavaScript, React, Next.js, [...]
+I am a Full-Stack Web Developer passionate about building scalable, efficient, and user-friendly web applications. I specialize in developing modern web solutions using JavaScript, React, Next.js, Node.js, Express.js, PostgreSQL, and related technologies.
 
-My experience spans both frontend and backend development, allowing me to design complete systems—from intuitive user interfaces to secure APIs, authentication systems, database architecture, and[...]
+My experience spans both frontend and backend development, allowing me to design complete systems—from intuitive user interfaces to secure APIs, authentication systems, database architecture, and cloud deployment workflows. I enjoy transforming ideas into functional products that solve real-world problems.
 
-Beyond web development, I have a strong foundation in programming, Linux systems, networking fundamentals, and software engineering principles. I am continuously expanding my knowledge in areas such a[...]
+Beyond web development, I have a strong foundation in programming, Linux systems, networking fundamentals, and software engineering principles. I am continuously expanding my knowledge in areas such as system design, blockchain technology, cloud infrastructure, and application security.
 
-Currently studying Materials and Metallurgical Engineering, I bring an analytical and problem-solving mindset to software development. My engineering background helps me approach challenges methodical[...]
+Currently studying Materials and Metallurgical Engineering, I bring an analytical and problem-solving mindset to software development. My engineering background helps me approach challenges methodically, optimize performance, and build reliable solutions.
 
-I am passionate about learning, collaborating with developers, and contributing to impactful projects. Whether it's developing responsive web applications, designing backend services, working with dat[...]
+I am passionate about learning, collaborating with developers, and contributing to impactful projects. Whether it's developing responsive web applications, designing backend services, working with databases, or exploring emerging technologies, I strive to write clean, maintainable, and efficient code.
 
-I'm deeply driven by curiosity, real-world problem-solving, and the desire to create reliable, scalable systems — both digital and physical. My goal is to contribute to impactful projects, keep le[...]
+I'm deeply driven by curiosity, real-world problem-solving, and the desire to create reliable, scalable systems — both digital and physical. My goal is to contribute to impactful projects, keep learning more new technology and improving on them.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [abdulrafiuariori@gmail.com](mailto:abdulrafiuariori@gmail.com)
